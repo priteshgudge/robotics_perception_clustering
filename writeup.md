@@ -34,16 +34,16 @@ The camera topic default view in Rviz.
 
 #### 2
 After publishing to the table pointcloud topic and appropriate selection in Rviz
-
+The below image is after selection of /pcl_table topic in Rviz
 ![alt text][pc_table]
 
 #### 3
-After publishing to the objects pointcloud topic and appropriate selection in Rviz
+After publishing to the objects pointcloud topic and appropriate selection in Rviz. The below image is after selection of /pcl_objects topic in Rviz
 
 ![alt text][pc_table]
 
 #### 4
 When the clustering algorithm is integrated and the result publised on the /pcl_cluster topic and the topic is subscribed in Rviz.
-
+The below image is after selection of /pcl_cluster topic in Rviz.
 ![alt text][clustering]
 
